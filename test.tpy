@@ -1,0 +1,14 @@
+a=3
+b=4
+c=a+b
+d=3-(4+5)
+print c
+f=sum(5,6)
+def sum(a,b):
+return a+b
+def check20(a):
+if a==20:
+return (a+20)
+else:
+return (a-20)
+print "Hello World"
